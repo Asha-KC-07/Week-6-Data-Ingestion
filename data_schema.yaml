@@ -1,0 +1,25 @@
+file_type: csv
+file_name: us_congestion_2016_2022_sample_2m
+read_separator: ','
+write_separator: '/'
+columns:
+    - id
+    - time
+    - speed
+    - travel_time
+    - length
+    - ratio
+    - congestion_level
+    - geometry
+    - origin
+    - destination
+    - segment_id
+    - city_code
+    - road
+    - direction
+    - year
+    - month
+    - day
+    - hour
+    - minute
+    - dayofweek
